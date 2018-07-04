@@ -2,4 +2,3 @@
 def display_board
   puts "Welcome to Tic Tack Toe!"
 end
-
