@@ -7,3 +7,4 @@ def display_board
               |   |   "
   print array
 end
+display_board
