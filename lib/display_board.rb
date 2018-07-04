@@ -5,5 +5,5 @@ def display_board
               |   |
            -----------
               |   |   "
-  puts array
+  print array
 end
