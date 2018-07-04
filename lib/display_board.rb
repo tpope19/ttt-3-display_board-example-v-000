@@ -2,6 +2,4 @@
 def display_board
   array = "   |   |
   puts array
-  array = "-----------"
-  puts array
 end
